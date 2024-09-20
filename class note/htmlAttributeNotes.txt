@@ -10,3 +10,4 @@ HTML elements are the fundamental building block of html code.
 HTML attributes are pre-written, built in pieces of code that provide html tags more powers and abilities. 
 
 DO not start activies with numbers, opeining a folder, or making An Assignment.
+
